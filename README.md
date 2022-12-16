@@ -163,7 +163,7 @@ Office2----/
 
 Поднять виртуальную сеть:
 ```
-git clone git@github.com:UtrGrd/otus_hw27_network_architecture.git && cd otus_hw27_network_architecture && vagrant up
+git clone git@github.com:UtrGrd/otus_hw27.git && cd otus_hw27 && vagrant up
 ```
 
 Подключиться к серверам и пропинговать друг друга.
